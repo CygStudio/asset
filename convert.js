@@ -16,6 +16,9 @@ fs.ensureDirSync(webpImageDir);
 const outputPath = path.join(__dirname, 'message.json');
 const output = fs.readJsonSync(outputPath);
 
+// 最大尺寸限制
+const MAX_DIMENSION = 1920;
+
 // 轉換函數
 async function convertToWebP(inputPath, outputDir, originalFilename) {
   try {
@@ -23,8 +26,30 @@ async function convertToWebP(inputPath, outputDir, originalFilename) {
     const outputFilename = path.basename(originalFilename, path.extname(originalFilename)) + '.webp';
     const outputPath = path.join(outputDir, outputFilename);
 
-    // 使用 sharp 進行轉換
-    await sharp(inputPath)
+    // 讀取圖片資訊
+    const metadata = await sharp(inputPath).metadata();
+    
+    // 檢查尺寸並決定是否需要縮放
+    let imageProcess = sharp(inputPath);
+    
+    if (metadata.width > MAX_DIMENSION || metadata.height > MAX_DIMENSION) {
+      // 計算縮放比例
+      const scaleFactor = Math.min(
+        MAX_DIMENSION / metadata.width,
+        MAX_DIMENSION / metadata.height
+      );
+      
+      // 計算新尺寸
+      const newWidth = Math.round(metadata.width * scaleFactor);
+      const newHeight = Math.round(metadata.height * scaleFactor);
+      
+      // 進行縮放
+      imageProcess = imageProcess.resize(newWidth, newHeight);
+      console.log(`圖片尺寸縮小: ${inputPath} (${metadata.width}x${metadata.height} -> ${newWidth}x${newHeight})`);
+    }
+
+    // 轉換為 WebP 格式
+    await imageProcess
       .webp({ quality: 80 })
       .toFile(outputPath);
 
@@ -76,7 +101,7 @@ function updateJsonPaths() {
 
   // 寫回 JSON 檔案
   fs.writeJsonSync(outputPath, output, { spaces: 2 });
-  console.log('已更新 output.json 檔案中的路徑');
+  console.log('已更新 message.json 檔案中的路徑');
 }
 
 // 執行轉換並更新 JSON
