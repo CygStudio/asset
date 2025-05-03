@@ -3,17 +3,17 @@ const path = require('path');
 const sharp = require('sharp');
 
 // 定義轉換的目錄
-const avatarDir = path.join(__dirname, 'avatar');
-const imageDir = path.join(__dirname, 'image');
+const avatarDir = path.join(__dirname, '../travel/avatar');
+const imageDir = path.join(__dirname, '../travel/image');
 
 // 確保輸出目錄存在
-const webpAvatarDir = path.join(__dirname, 'avatar-webp');
-const webpImageDir = path.join(__dirname, 'image-webp');
+const webpAvatarDir = path.join(__dirname, '../travel/avatar-webp');
+const webpImageDir = path.join(__dirname, '../travel/image-webp');
 fs.ensureDirSync(webpAvatarDir);
 fs.ensureDirSync(webpImageDir);
 
-// 讀取 message.json
-const outputPath = path.join(__dirname, 'message.json');
+// 讀取 travel/index.json
+const outputPath = path.join(__dirname, '../travel/index.json');
 const output = fs.readJsonSync(outputPath);
 
 // 最大尺寸限制
@@ -88,20 +88,20 @@ function updateJsonPaths() {
     if (item.avatar) {
       const filename = path.basename(item.avatar);
       const newFilename = path.basename(filename, path.extname(filename)) + '.webp';
-      item.avatar = `avatar-webp/${newFilename}`;
+      item.avatar = `travel/avatar-webp/${newFilename}`;
     }
 
     // 更新 image 路徑 (如果有的話)
     if (item.image && item.image !== '') {
       const filename = path.basename(item.image);
       const newFilename = path.basename(filename, path.extname(filename)) + '.webp';
-      item.image = `image-webp/${newFilename}`;
+      item.image = `travel/image-webp/${newFilename}`;
     }
   }
 
   // 寫回 JSON 檔案
   fs.writeJsonSync(outputPath, output, { spaces: 2 });
-  console.log('已更新 message.json 檔案中的路徑');
+  console.log('已更新 travel/index.json 檔案中的路徑');
 }
 
 // 執行轉換並更新 JSON
