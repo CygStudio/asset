@@ -25,7 +25,7 @@
       {
         "type": "yt",
         "group": "FF42",
-        "content": "https://www.youtube.com/watch?v=ZxyupKu-j3k"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/ZxyupKu-j3k?si=zmo4HvKmdNdSJUvv' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       }
     ]
   },
@@ -75,7 +75,7 @@
       {
         "type": "yt",
         "group": "FFK16",
-        "content": "https://www.youtube.com/watch?v=jHmbsnae0F8"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/jHmbsnae0F8?si=eMTrDZ3f7MOxvmuk' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       }
     ]
   },
@@ -130,7 +130,7 @@
       {
         "type": "yt",
         "group": "熙元一周年",
-        "content": "https://www.youtube.com/watch?v=GcLO2jbLl2A"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/GcLO2jbLl2A?si=dk_LiPDDXN2hu0Jm' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       }
     ]
   },
@@ -175,12 +175,12 @@
       {
         "type": "yt",
         "group": "大稻埕2023",
-        "content": "https://www.youtube.com/watch?v=QyeyDvkaJfI"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/QyeyDvkaJfI?si=GZguxRgE3FTKAqzD' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       },
       {
         "type": "yt",
         "group": "大稻埕2023",
-        "content": "https://www.youtube.com/watch?v=722cgvX5mYQ"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/722cgvX5mYQ?si=JoLae2e_MQczOq5J' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       }
     ]
   },
@@ -250,17 +250,17 @@
       {
         "type": "yt",
         "group": "PF38",
-        "content": "https://youtu.be/uA8m8l33rf0"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/uA8m8l33rf0?si=w5CsGGeQSTw6oP3X' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       },
       {
         "type": "yt",
         "group": "PF38",
-        "content": "https://youtu.be/xMFYGxd-BM8"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/xMFYGxd-BM8?si=5V_WEzqJq8VuUXfO' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       },
       {
         "type": "yt",
         "group": "PF38",
-        "content": "https://youtu.be/yHXWefZmClo"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/yHXWefZmClo?si=AagJghScoKsHb6dP' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       }
     ]
   },
@@ -290,7 +290,7 @@
       {
         "type": "yt",
         "group": "KIRABASE",
-        "content": "https://youtu.be/HllTQjCKzzw"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/HllTQjCKzzw?si=m00daeahdoY0zZpu' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       }
     ]
   },
@@ -310,7 +310,7 @@
       {
         "type": "yt",
         "group": "線下活動",
-        "content": "https://youtu.be/2iVz-mz9Th0"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/2iVz-mz9Th0?si=Em2q03W0T8GfohZK' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       },
       {
         "type": "image",
@@ -320,7 +320,7 @@
       {
         "type": "yt",
         "group": "線下活動",
-        "content": "https://youtu.be/srpJQPl77eU"
+        "content": "<iframe width='560' height='315' src='https://www.youtube.com/embed/srpJQPl77eU?si=eBiHl7f7bjUb53ee' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
       },
       {
         "type": "image",
