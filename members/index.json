@@ -1,0 +1,342 @@
+{
+  "staffList": [
+    {
+      "name": "Daku大空",
+      "title": "企劃負責人",
+      "img": "./images/THKavatar/大空.png",
+      "link": "https://twitter.com/shiro943871791"
+    },
+    {
+      "name": "クマ吉",
+      "title": "企劃負責人",
+      "img": "./images/THKavatar/哭夭吉.png",
+      "link": "https://twitter.com/SooooooouLBeAr"
+    },
+    {
+      "name": "DJ DÄZEE",
+      "title": "副負責人",
+      "img": "./images/THKavatar/DJ DÄZEE.png",
+      "link": "https://twitter.com/dj0dazee"
+    },
+    {
+      "name": "雪楓JJ",
+      "title": "副負責人",
+      "img": "./images/THKavatar/雪楓.png",
+      "link": "https://twitter.com/x70985647"
+    },
+    {
+      "name": "幽靈",
+      "title": "北部小組長",
+      "img": "./images/THKavatar/幽靈社長.png",
+      "link": "https://twitter.com/zhengYuLin77"
+    },
+    {
+      "name": "問咲",
+      "title": "北部小組長",
+      "img": "./images/THKavatar/問咲（stes）.png",
+      "link": "https://twitter.com/st970189"
+    },
+    {
+      "name": "梓姊",
+      "title": "北部副組長",
+      "img": "./images/THKavatar/梓姊.png",
+      "link": "https://twitter.com/yunqi_ling"
+    },
+    {
+      "name": "神龍",
+      "title": "中部小組長",
+      "img": "./images/THKavatar/神龍.png",
+      "link": ""
+    },
+    {
+      "name": "小毅",
+      "title": "中部副組長",
+      "img": "./images/THKavatar/小毅.png",
+      "link": "https://twitter.com/force7579"
+    },
+    {
+      "name": "高岡",
+      "title": "南部小組長",
+      "img": "./images/THKavatar/高岡.png",
+      "link": "https://twitter.com/SCHuangKronK"
+    },
+    {
+      "name": "六巡",
+      "title": "南部副組長",
+      "img": "./images/THKavatar/六巡.png",
+      "link": "https://twitter.com/SixthWatch"
+    },
+    {
+      "name": "建錡",
+      "title": "南部副組長",
+      "img": "./images/THKavatar/建錡.png",
+      "link": "https://twitter.com/JZiOhjFWMdOrKO6"
+    },
+    {
+      "name": "御夫",
+      "title": "天下無敵",
+      "img": "./images/THKavatar/御夫.png",
+      "link": "https://twitter.com/Charioteer_YUFU"
+    },
+    {
+      "name": "froggy",
+      "title": "網頁製作",
+      "img": "./images/THKavatar/froggy.png",
+      "link": "https://twitter.com/froggy0297"
+    }
+  ],
+  "memberList": [
+    {
+      "name": "ながと",
+      "title": "網頁協助製作",
+      "img": "./images/THKavatar/ながと.png",
+      "link": ""
+    },
+    {
+      "name": "⋄梓⋄【小孩梓】",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/梓姊.png",
+      "link": "https://www.youtube.com/@azusa9104"
+    },
+    {
+      "name": "DaKu 大空",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/大空.png",
+      "link": "https://www.youtube.com/@DaKu-nu7ks"
+    },
+    {
+      "name": "木貓",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/木貓.png",
+      "link": "https://www.youtube.com/@MumaoWoodcat"
+    },
+    {
+      "name": "千束烤肉中",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/千束烤肉中.png",
+      "link": "https://www.youtube.com/@chisato_patrick"
+    },
+    {
+      "name": "北辰叔",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/北辰.png",
+      "link": "https://www.youtube.com/@1O3TP6"
+    },
+    {
+      "name": "市大同動畫研究社",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/市大同動畫研究社@dtsh.png",
+      "link": "https://www.youtube.com/@dtshar10"
+    },
+    {
+      "name": "台V上的一朵雛菊",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/台V上的一朵雛菊.png",
+      "link": "https://www.youtube.com/@HinaGiku_OuO"
+    },
+    {
+      "name": "默默熙良藥",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/默默熙良藥.png",
+      "link": "https://www.youtube.com/@NemesisNemokawaii"
+    },
+    {
+      "name": "ミちゃんmichan",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/ミちゃんmichan.png",
+      "link": "https://www.youtube.com/@MICHAN1231K"
+    },
+    {
+      "name": "DJ DÄZEE",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/DJ DÄZEE.png",
+      "link": "https://www.youtube.com/@dj0dazee"
+    },
+    {
+      "name": "賣萌喵的剪輯工坊",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/賣萌喵的剪輯工坊.png",
+      "link": "https://www.youtube.com/@cutecatclip"
+    },
+    {
+      "name": "歐CHU片濕",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/歐CHU片濕.png",
+      "link": "https://www.youtube.com/@chu13669"
+    },
+    {
+      "name": "小肉桂(｡･ω･｡)",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/小肉桂.png",
+      "link": "https://www.youtube.com/@cinnamon_8855"
+    },
+    {
+      "name": "阿洛夫",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/阿洛夫.png",
+      "link": "https://www.youtube.com/@AlophIsHere"
+    },
+    {
+      "name": "哈娜比hanabi",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/哈娜比.png",
+      "link": "https://www.youtube.com/@hanabi183"
+    },
+    {
+      "name": "Jeffery",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/Jeffery.png",
+      "link": "https://www.youtube.com/@Jeffery63"
+    },
+    {
+      "name": "星澜しんらん",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/星澜しんらん.png",
+      "link": "https://www.youtube.com/@xin_lan_desu"
+    },
+    {
+      "name": "小沢",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/小沢.png",
+      "link": "https://www.youtube.com/@Ozawa0217"
+    },
+    {
+      "name": "【熙歌工作室】ID第一個字很難唸大師",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/【熙歌工作室】ID第一個字很難唸大師.png",
+      "link": "https://www.youtube.com/@CygnusStudio-MasterTian"
+    },
+    {
+      "name": "台V雜貨店【TW Grocery】",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/台V雜貨店【TW Grocery】.png",
+      "link": "https://www.youtube.com/@vtwgrocery2248"
+    },
+    {
+      "name": "DA SU汐姊精華株式會社",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/DA SU 汐姊精華株式會社.png",
+      "link": "https://www.youtube.com/@dasu5920"
+    },
+    {
+      "name": "大顆壽司小boss狂靈戰士",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/大顆壽司小boss 狂靈戰士.png",
+      "link": "https://www.youtube.com/@zb8012"
+    },
+    {
+      "name": "Extremeサーモンフレンド",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/Extreme サーモン フレンド.png",
+      "link": "https://www.youtube.com/@extreme8817"
+    },
+    {
+      "name": "莫格MOG",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/莫格MOG.png",
+      "link": "https://www.youtube.com/@mogsusume"
+    },
+    {
+      "name": "小亞",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/小亞.png",
+      "link": "https://www.youtube.com/@shaoya1005"
+    },
+    {
+      "name": "Eternity",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/Eternity.png",
+      "link": "https://www.youtube.com/@Eternity0723"
+    },
+    {
+      "name": "飄飄",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/飄飄.png",
+      "link": "https://www.youtube.com/@user-si9km8tg1n"
+    },
+    {
+      "name": "幻燄牙月",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/幻燄牙月.png",
+      "link": "https://www.youtube.com/@joy123ks"
+    },
+    {
+      "name": "空条悟",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/空条悟.png",
+      "link": "https://www.youtube.com/@kongtiao_trans"
+    },
+    {
+      "name": "Rilak佛系更新",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/Rilak佛系更新.png",
+      "link": "https://www.youtube.com/@rilak517"
+    },
+    {
+      "name": "哈洛書",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/哈洛書.png",
+      "link": "https://www.youtube.com/@harosu696"
+    },
+    {
+      "name": "兔兔亂剪",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/兔兔亂剪.png",
+      "link": "https://www.youtube.com/@Bunnyclips1"
+    },
+    {
+      "name": "皮兔",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/皮兔.png",
+      "link": "https://www.youtube.com/@p2p2p"
+    },
+    {
+      "name": "Little ghost小鬼",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/小鬼.png",
+      "link": "https://www.youtube.com/@littleghostdy7365"
+    },
+    {
+      "name": "肥特不買醬油",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/肥特不買醬油.png",
+      "link": "https://www.youtube.com/@Fatedudu_o"
+    },
+    {
+      "name": "哈娜比hanabi",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/哈娜比.png",
+      "link": "https://www.youtube.com/@hanabi183"
+    },
+    {
+      "name": "SHINYYYY",
+      "title": "精華影片提供",
+      "img": "./images/THKavatar/特別感謝/SHINYYYY.png",
+      "link": "https://www.youtube.com/@ShinyClipingBright"
+    },
+    {
+      "name": "DiDi",
+      "title": "網頁圖片提供",
+      "img": "./images/THKavatar/特別感謝/DIDI.png",
+      "link": "https://x.com/DiDi_2u6"
+    },
+    {
+      "name": "YuRi",
+      "title": "網頁圖片提供",
+      "img": "./images/THKavatar/YuRi.png",
+      "link": "https://x.com/YuRio1024"
+    },
+    {
+      "name": "秦黫黫黫Aya",
+      "title": "網頁圖片提供",
+      "img": "./images/THKavatar/秦黫黫黫Aya.png",
+      "link": "https://x.com/Qin_Muyu"
+    },
+    {
+      "name": "達納特斯",
+      "title": "網頁圖片提供",
+      "img": "./images/THKavatar/達納特斯.png",
+      "link": "https://x.com/daanatos_zero"
+    }
+  ]
+}
