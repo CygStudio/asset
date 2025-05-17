@@ -68,10 +68,30 @@ async function processDirectory(directory) {
 // 主函數
 async function main() {
   try {
-    console.log('開始處理現有 WebP 圖片...');
-    await processDirectory(webpAvatarDir);
-    await processDirectory(webpImageDir);
-    console.log('所有圖片處理完成！');
+    const inputs = process.argv.slice(2);
+
+    if (inputs.length === 0) {
+      console.log('開始處理現有 WebP 圖片 (預設目錄)...');
+      await processDirectory(webpAvatarDir);
+      await processDirectory(webpImageDir);
+      console.log('所有預設目錄圖片處理完成！');
+    } else {
+      console.log('開始處理指定的 WebP 圖片...');
+      for (const p of inputs) {
+        const absPath = path.resolve(p);
+        const stats = await fs.stat(absPath);
+        if (stats.isDirectory()) {
+          await processDirectory(absPath);
+        } else {
+          if (path.extname(absPath).toLowerCase() === '.webp') {
+            await resizeImage(absPath);
+          } else {
+            console.log(`略過非 WebP 檔案: ${absPath}`);
+          }
+        }
+      }
+      console.log('所有指定圖片處理完成！');
+    }
   } catch (error) {
     console.error('處理過程發生錯誤:', error);
   }
