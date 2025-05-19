@@ -7,7 +7,7 @@ const webpAvatarDir = path.join(__dirname, 'avatar-webp');
 const webpImageDir = path.join(__dirname, 'image-webp');
 
 // 最大尺寸限制
-const MAX_DIMENSION = 1920;
+const MAX_DIMENSION = 400;
 
 // 檢查並調整圖片尺寸
 async function resizeImage(inputPath) {
