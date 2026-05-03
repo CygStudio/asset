@@ -1,0 +1,325 @@
+{
+  "staffList": [
+    {
+        "name": "高岡",
+        "title": "企劃總召",
+        "img": "/members/avatar/高岡.webp",
+        "link": "https://x.com/SCHuangKronK"
+    },
+    {
+        "name": "DJ DÄZEE",
+        "title": "企劃副召",
+        "img": "/members/avatar/DJ_DÄZEE.webp",
+        "link": "https://x.com/dj0dazee"
+    },
+    {
+        "name": "DJ DÄZEE",
+        "title": "北部小組長",
+        "img": "/members/avatar/DJ_DÄZEE.webp",
+        "link": "https://x.com/dj0dazee"
+    },
+    {
+        "name": "哭麻糬(クマ吉)",
+        "title": "北部小組長",
+        "img": "/members/avatar/哭麻糬.webp",
+        "link": "https://x.com/SooooooouLBeAr"
+    },
+    {
+        "name": "建錡ゲンキ",
+        "title": "南部小組長",
+        "img": "/members/avatar/建錡ゲンキ.webp",
+        "link": "https://x.com/JZiOhjFWMdOrKO6"
+    },
+    {
+        "name": "小肉桂(｡･ω･｡)",
+        "title": "南部小組長",
+        "img": "/members/avatar/小肉桂.webp",
+        "link": "https://x.com/cinnamon_8855"
+    },
+    {
+        "name": "御夫",
+        "title": "特效師",
+        "img": "/members/avatar/御夫.webp",
+        "link": "https://x.com/Charioteer_YUFU"
+    },
+    {
+        "name": "雪楓",
+        "title": "作詞家",
+        "img": "/members/avatar/雪楓.webp",
+        "link": "https://x.com/x70985647"
+    },
+    {
+        "name": "排氣管",
+        "title": "網頁工程師",
+        "img": "/members/avatar/排氣管.webp",
+        "link": "https://x.com/SidStraw"
+    }
+],
+
+  "memberList": [
+    {
+      "name": "Earendel ch. 厄倫蒂兒",
+      "title": "祝福影片提供",
+      "img": "/members/avatar/Earendel.webp",
+      "link": "https://www.youtube.com/@EarendelXDFP"
+    },
+    {
+      "name": "Nemesis ch. 涅默",
+      "title": "祝福影片提供",
+      "img": "/members/avatar/Nemesis.webp",
+      "link": "https://www.youtube.com/@NemesisXDFP"
+    },
+    {
+      "name": "Oumua ch. 埃穆亞",
+      "title": "祝福影片提供",
+      "img": "/members/avatar/Oumua.webp",
+      "link": "https://www.youtube.com/@OumuaXDFP"
+    },
+    {
+      "name": "阿洛夫",
+      "title": "主視覺提供",
+      "img": "/members/avatar/阿洛夫.webp",
+      "link": "https://www.youtube.com/@AlophIsHere"
+    },
+    {
+      "name": "⋄梓⋄【小孩梓】",
+      "title": "精華影片提供",
+      "img": "/members/avatar/梓姊.webp",
+      "link": "https://www.youtube.com/@azusa9104"
+    },
+    {
+      "name": "DaKu 大空",
+      "title": "精華影片提供",
+      "img": "/members/avatar/大空.webp",
+      "link": "https://www.youtube.com/@DaKu-nu7ks"
+    },
+    {
+      "name": "木貓",
+      "title": "精華影片提供",
+      "img": "/members/avatar/木貓.webp",
+      "link": "https://www.youtube.com/@MumaoWoodcat"
+    },
+    {
+      "name": "千束烤肉中",
+      "title": "精華影片提供",
+      "img": "/members/avatar/千束烤肉中.webp",
+      "link": "https://www.youtube.com/@chisato_patrick"
+    },
+    {
+      "name": "北辰叔",
+      "title": "精華影片提供",
+      "img": "/members/avatar/北辰.webp",
+      "link": "https://www.youtube.com/@1O3TP6"
+    },
+    {
+      "name": "市大同動畫研究社",
+      "title": "精華影片提供",
+      "img": "/members/avatar/市大同動畫研究社@dtsh.webp",
+      "link": "https://www.youtube.com/@dtshar10"
+    },
+    {
+      "name": "台V上的一朵雛菊",
+      "title": "精華影片提供",
+      "img": "/members/avatar/台V上的一朵雛菊.webp",
+      "link": "https://www.youtube.com/@HinaGiku_OuO"
+    },
+    {
+      "name": "默默熙良藥",
+      "title": "精華影片提供",
+      "img": "/members/avatar/默默熙良藥.webp",
+      "link": "https://www.youtube.com/@NemesisNemokawaii"
+    },
+    {
+      "name": "ミちゃんmichan",
+      "title": "精華影片提供",
+      "img": "/members/avatar/ミちゃんmichan.webp",
+      "link": "https://www.youtube.com/@MICHAN1231K"
+    },
+    {
+      "name": "DJ DÄZEE",
+      "title": "精華影片提供",
+      "img": "/members/avatar/DJ_DÄZEE.webp",
+      "link": "https://www.youtube.com/@dj0dazee"
+    },
+    {
+      "name": "賣萌喵的剪輯工坊",
+      "title": "精華影片提供",
+      "img": "/members/avatar/賣萌喵的剪輯工坊.webp",
+      "link": "https://www.youtube.com/@cutecatclip"
+    },
+    {
+      "name": "歐CHU片濕",
+      "title": "精華影片提供",
+      "img": "/members/avatar/歐CHU片濕.webp",
+      "link": "https://www.youtube.com/@chu13669"
+    },
+    {
+      "name": "小肉桂(｡･ω･｡)",
+      "title": "精華影片提供",
+      "img": "/members/avatar/小肉桂.webp",
+      "link": "https://www.youtube.com/@cinnamon_8855"
+    },
+    {
+      "name": "哈娜比hanabi",
+      "title": "精華影片提供",
+      "img": "/members/avatar/哈娜比.webp",
+      "link": "https://www.youtube.com/@hanabi183"
+    },
+    {
+      "name": "Jeffery",
+      "title": "精華影片提供",
+      "img": "/members/avatar/Jeffery.webp",
+      "link": "https://www.youtube.com/@Jeffery63"
+    },
+    {
+      "name": "星澜しんらん",
+      "title": "精華影片提供",
+      "img": "/members/avatar/星澜しんらん.webp",
+      "link": "https://www.youtube.com/@xin_lan_desu"
+    },
+    {
+      "name": "小沢",
+      "title": "精華影片提供",
+      "img": "/members/avatar/小沢.webp",
+      "link": "https://www.youtube.com/@Ozawa0217"
+    },
+    {
+      "name": "【熙歌工作室】ID第一個字很難唸大師",
+      "title": "精華影片提供",
+      "img": "/members/avatar/【熙歌工作室】ID第一個字很難唸大師.webp",
+      "link": "https://www.youtube.com/@CygnusStudio-MasterTian"
+    },
+    {
+      "name": "台V雜貨店【TW Grocery】",
+      "title": "精華影片提供",
+      "img": "/members/avatar/台V雜貨店.webp",
+      "link": "https://www.youtube.com/@vtwgrocery2248"
+    },
+    {
+      "name": "DA SU汐姊精華株式會社",
+      "title": "精華影片提供",
+      "img": "/members/avatar/DA_SU_汐姊精華株式會社.webp",
+      "link": "https://www.youtube.com/@dasu5920"
+    },
+    {
+      "name": "大顆壽司小boss狂靈戰士",
+      "title": "精華影片提供",
+      "img": "/members/avatar/大顆壽司小boss_狂靈戰士.webp",
+      "link": "https://www.youtube.com/@zb8012"
+    },
+    {
+      "name": "Extremeサーモンフレンド",
+      "title": "精華影片提供",
+      "img": "/members/avatar/Extreme.webp",
+      "link": "https://www.youtube.com/@extreme8817"
+    },
+    {
+      "name": "莫格MOG",
+      "title": "精華影片提供",
+      "img": "/members/avatar/莫格MOG.webp",
+      "link": "https://www.youtube.com/@mogsusume"
+    },
+    {
+      "name": "小亞",
+      "title": "精華影片提供",
+      "img": "/members/avatar/小亞.webp",
+      "link": "https://www.youtube.com/@shaoya1005"
+    },
+    {
+      "name": "Eternity",
+      "title": "精華影片提供",
+      "img": "/members/avatar/Eternity.webp",
+      "link": "https://www.youtube.com/@Eternity0723"
+    },
+    {
+      "name": "飄飄",
+      "title": "精華影片提供",
+      "img": "/members/avatar/飄飄.webp",
+      "link": "https://www.youtube.com/@user-si9km8tg1n"
+    },
+    {
+      "name": "幻燄牙月",
+      "title": "精華影片提供",
+      "img": "/members/avatar/幻燄牙月.webp",
+      "link": "https://www.youtube.com/@joy123ks"
+    },
+    {
+      "name": "空条悟",
+      "title": "精華影片提供",
+      "img": "/members/avatar/空条悟.webp",
+      "link": "https://www.youtube.com/@kongtiao_trans"
+    },
+    {
+      "name": "Rilak佛系更新",
+      "title": "精華影片提供",
+      "img": "/members/avatar/Rilak佛系更新.webp",
+      "link": "https://www.youtube.com/@rilak517"
+    },
+    {
+      "name": "哈洛書",
+      "title": "精華影片提供",
+      "img": "/members/avatar/哈洛書.webp",
+      "link": "https://www.youtube.com/@harosu696"
+    },
+    {
+      "name": "兔兔亂剪",
+      "title": "精華影片提供",
+      "img": "/members/avatar/兔兔亂剪.webp",
+      "link": "https://www.youtube.com/@Bunnyclips1"
+    },
+    {
+      "name": "皮兔",
+      "title": "精華影片提供",
+      "img": "/members/avatar/皮兔.webp",
+      "link": "https://www.youtube.com/@p2p2p"
+    },
+    {
+      "name": "Little ghost小鬼",
+      "title": "精華影片提供",
+      "img": "/members/avatar/小鬼.webp",
+      "link": "https://www.youtube.com/@littleghostdy7365"
+    },
+    {
+      "name": "肥特不買醬油",
+      "title": "精華影片提供",
+      "img": "/members/avatar/肥特不買醬油.webp",
+      "link": "https://www.youtube.com/@Fatedudu_o"
+    },
+    {
+      "name": "哈娜比hanabi",
+      "title": "精華影片提供",
+      "img": "/members/avatar/哈娜比.webp",
+      "link": "https://www.youtube.com/@hanabi183"
+    },
+    {
+      "name": "SHINYYYY",
+      "title": "精華影片提供",
+      "img": "/members/avatar/SHINYYYY.webp",
+      "link": "https://www.youtube.com/@ShinyClipingBright"
+    },
+    {
+      "name": "DiDi",
+      "title": "網頁圖片提供",
+      "img": "/members/avatar/DIDI.webp",
+      "link": "https://x.com/DiDi_2u6"
+    },
+    {
+      "name": "YuRi",
+      "title": "網頁圖片提供",
+      "img": "/members/avatar/YuRi.webp",
+      "link": "https://x.com/YuRio1024"
+    },
+    {
+      "name": "秦黫黫黫Aya",
+      "title": "網頁圖片提供",
+      "img": "/members/avatar/秦黫黫黫Aya.webp",
+      "link": "https://x.com/Qin_Muyu"
+    },
+    {
+      "name": "達納特斯",
+      "title": "網頁圖片提供",
+      "img": "/members/avatar/達納特斯.webp",
+      "link": "https://x.com/daanatos_zero"
+    }
+  ]
+}
