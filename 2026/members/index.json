@@ -1,73 +1,84 @@
 {
   "staffList": [
     {
-        "name": "高岡",
-        "title": "企劃總召",
-        "img": "/members/avatar/高岡.webp",
-        "link": "https://x.com/SCHuangKronK"
+      "name": "高岡",
+      "title": "企劃總召",
+      "img": "/members/avatar/高岡.webp",
+      "link": "https://x.com/SCHuangKronK"
     },
     {
-        "name": "DJ DÄZEE",
-        "title": "企劃副召",
-        "img": "/members/avatar/DJ_DÄZEE.webp",
-        "link": "https://x.com/dj0dazee"
+      "name": "DJ DÄZEE",
+      "title": "企劃提出",
+      "img": "/members/avatar/DJ_DÄZEE.webp",
+      "link": "https://x.com/dj0dazee"
     },
     {
-        "name": "DJ DÄZEE",
-        "title": "北部小組長",
-        "img": "/members/avatar/DJ_DÄZEE.webp",
-        "link": "https://x.com/dj0dazee"
+      "name": "尤里卡",
+      "title": "北區導演",
+      "img": "/members/avatar/尤里卡.webp",
+      "link": "https://bsky.app/profile/euryka1205.bsky.social"
     },
     {
-        "name": "哭麻糬(クマ吉)",
-        "title": "北部小組長",
-        "img": "/members/avatar/哭麻糬.webp",
-        "link": "https://x.com/SooooooouLBeAr"
+      "name": "DoritosMountaindewMaster4",
+      "title": "北區導演",
+      "img": "/members/avatar/DoritosMountaindewMaster4.webp",
+      "link": "https://www.youtube.com/@DoritosMountaindewMaster4"
     },
     {
-        "name": "建錡ゲンキ",
-        "title": "南部小組長",
-        "img": "/members/avatar/建錡ゲンキ.webp",
-        "link": "https://x.com/JZiOhjFWMdOrKO6"
+      "name": "00展",
+      "title": "南區導演",
+      "img": "/members/avatar/00展.webp",
+      "link": "https://bsky.app/profile/vista922534.bsky.social"
     },
     {
-        "name": "小肉桂(｡･ω･｡)",
-        "title": "南部小組長",
-        "img": "/members/avatar/小肉桂.webp",
-        "link": "https://x.com/cinnamon_8855"
+      "name": "高岡",
+      "title": "南區導演",
+      "img": "/members/avatar/高岡.webp",
+      "link": "https://x.com/SCHuangKronK"
     },
     {
-        "name": "御夫",
-        "title": "特效師",
-        "img": "/members/avatar/御夫.webp",
-        "link": "https://x.com/Charioteer_YUFU"
+      "name": "御夫",
+      "title": "片頭特效",
+      "img": "/members/avatar/御夫.webp",
+      "link": "https://x.com/Charioteer_YUFU"
     },
     {
-        "name": "雪楓",
-        "title": "作詞家",
-        "img": "/members/avatar/雪楓.webp",
-        "link": "https://x.com/x70985647"
-    },
-    {
-        "name": "排氣管",
-        "title": "網頁工程師",
-        "img": "/members/avatar/排氣管.webp",
-        "link": "https://x.com/SidStraw"
+      "name": "排氣管管",
+      "title": "技術負責",
+      "img": "/members/avatar/排氣管管.webp",
+      "link": "https://x.com/SidStraw"
     }
-],
-
+  ],
   "memberList": [
     {
-      "name": "Earendel ch. 厄倫蒂兒",
+      "name": "REN",
       "title": "祝福影片提供",
-      "img": "/members/avatar/Earendel.webp",
-      "link": "https://www.youtube.com/@EarendelXDFP"
+      "img": "/members/avatar/REN.webp",
+      "link": "https://www.youtube.com/@Ren0809"
     },
     {
-      "name": "Nemesis ch. 涅默",
+      "name": "歐妲",
       "title": "祝福影片提供",
-      "img": "/members/avatar/Nemesis.webp",
-      "link": "https://www.youtube.com/@NemesisXDFP"
+      "img": "/members/avatar/歐妲.webp",
+      "link": "https://www.youtube.com/@oldamonstar"
+    },
+    {
+      "name": "白白虹",
+      "title": "祝福影片提供",
+      "img": "/members/avatar/白白虹.webp",
+      "link": "https://www.youtube.com/@xxhacucoxx_Celestial"
+    },
+    {
+      "name": "雲隙光",
+      "title": "祝福影片提供",
+      "img": "/members/avatar/雲隙光.webp",
+      "link": "https://www.youtube.com/@Kumosuki_Celestial"
+    },
+    {
+      "name": "冰霧",
+      "title": "祝福影片提供",
+      "img": "/members/avatar/冰霧.webp",
+      "link": "https://www.youtube.com/@Eisnebel_Celestial"
     },
     {
       "name": "Oumua ch. 埃穆亞",
