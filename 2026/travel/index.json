@@ -5,7 +5,23 @@
     "dc": "hwheh",
     "avatar": "travel/avatar-webp/avatar-鐵道迷黃韋翰.webp",
     "image": "travel/image-webp/image-鐵道迷黃韋翰-壯圍沙丘-黃韋翰.webp",
-    "info": "壯圍沙丘 - 黃韋翰"
+    "info": "壯圍沙丘"
+  },
+  {
+    "date": "2026/3/10 下午 5:05:45",
+    "name": "鐵道迷黃韋翰",
+    "dc": "hwheh",
+    "avatar": "travel/avatar-webp/avatar-鐵道迷黃韋翰.webp",
+    "image": "travel/image-webp/image-鐵道迷黃韋翰-苑裡車站.webp",
+    "info": "苑裡車站"
+  },
+  {
+    "date": "2026/3/10 下午 5:05:45",
+    "name": "鐵道迷黃韋翰",
+    "dc": "hwheh",
+    "avatar": "travel/avatar-webp/avatar-鐵道迷黃韋翰.webp",
+    "image": "travel/image-webp/image-鐵道迷黃韋翰-追分車站.webp",
+    "info": "追分車站"
   },
   {
     "date": "2026/4/7 下午 3:55:29",
@@ -13,7 +29,7 @@
     "dc": "_kuasong55688",
     "avatar": "travel/avatar-webp/avatar-玄米誇鬆.webp",
     "image": "travel/image-webp/image-玄米誇鬆-玄米誇鬆-橫濱K-Arena-玄米誇鬆.webp",
-    "info": "玄米誇鬆_橫濱K-Arena - 玄米誇鬆"
+    "info": "橫濱K-Arena"
   },
   {
     "date": "2026/4/8 下午 10:08:34",
@@ -21,7 +37,7 @@
     "dc": "awu7085",
     "avatar": "travel/avatar-webp/avatar-阿戊.webp",
     "image": "travel/image-webp/image-阿戊-20251017-141205-阿戊.webp",
-    "info": "20251017_141205 - 阿戊"
+    "info": "沖繩"
   },
   {
     "date": "2026/4/9 下午 5:55:05",
@@ -29,7 +45,7 @@
     "dc": "Sapphire7160",
     "avatar": "travel/avatar-webp/avatar-少荻聿aka薯條.webp",
     "image": "travel/image-webp/image-少荻聿aka薯條-少荻聿-日本伊根-少荻聿.webp",
-    "info": "少荻聿_日本伊根 - 少荻聿"
+    "info": "日本伊根"
   },
   {
     "date": "2026/4/11 下午 10:07:06",
@@ -37,7 +53,7 @@
     "dc": "euryka1205",
     "avatar": "travel/avatar-webp/avatar-尤里卡.webp",
     "image": "travel/image-webp/image-尤里卡-尤里卡-新竹轉運站-εὕρηκα尤里卡.webp",
-    "info": "尤里卡_新竹轉運站 - εὕρηκα尤里卡"
+    "info": "新竹轉運站"
   },
   {
     "date": "2026/4/13 上午 1:48:37",
@@ -45,7 +61,7 @@
     "dc": "kuangsnow",
     "avatar": "travel/avatar-webp/avatar-狂雪.webp",
     "image": "travel/image-webp/image-狂雪-水樹奈奈2026台北公演-狂雪CS.webp",
-    "info": "水樹奈奈2026台北公演 - 狂雪（C.S）"
+    "info": "水樹奈奈2026台北公演"
   },
   {
     "date": "2026/4/18 下午 10:27:57",
@@ -62,5 +78,13 @@
     "avatar": "travel/avatar-webp/avatar-派大客.webp",
     "image": "travel/image-webp/image-派大客-釜山.webp",
     "info": "釜山"
+  },
+  {
+    "date": "2025/2/6 上午 12:25:18",
+    "name": "00展",
+    "dc": "vista922534",
+    "avatar": "travel/avatar-webp/avatar-00展.webp",
+    "image": "travel/image-webp/image-00展-高士神社.webp",
+    "info": "高士神社"
   }
 ]
